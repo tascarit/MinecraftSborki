@@ -34,12 +34,12 @@
   },
   {
     "name": "Vanilla",
-    "version": "1.21.4 (vanilla)",
+    "version": "26.2 (vanilla)",
     "packVersion": "0.1",
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9-NtM-iH-Oscc6gDKHzO1WGStZXaFDc7zTncCJz3_w&s=10",
-    "v": "1.21.4",
+    "v": "26.2",
     "loader": "vanilla",
-    "mcV": "1.21.4",
+    "mcV": "26.2",
     "git": "",
     "parts": 1
   }

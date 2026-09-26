@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Krevetka",
+    "version": "1.21.1 (neoforge)",
+    "packVersion": "0.1",
+    "icon": "https://i.ibb.co/1tNtJHnm/server-icon.png",
+    "v": "21.1.250",
+    "loader": "neoforge",
+    "mcV": "1.21.1",
+    "git": "https://github.com/tascarit/MinecraftSborki/releases/download/0.1/Krevetka.zip",
+    "parts": 1
+  },
+  {
+    "name": "Nightfall",
+    "version": "1.20.1 (forge)",
+    "packVersion": "0.1",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/1706/161/64/64/639084115489140225_animated.gif",
+    "v": "47.4.0",
+    "loader": "forge",
+    "mcV": "1.20.1",
+    "git": "https://github.com/tascarit/MinecraftSborki/releases/download/nightfall/Nightfall.zip",
+    "parts": 1
+  },
+  {
+    "name": "Prominence II",
+    "version": "1.20.1 (fabric)",
+    "packVersion": "0.1",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvOO3-A4l_MQVY4-33jF9RCt2sTIVnFTa39DRFI4dEbBKvZ6yrvtLN&usqp=CAE&s",
+    "v": "1.19.3",
+    "loader": "fabric",
+    "mcV": "1.20.1",
+    "git": "https://github.com/tascarit/MinecraftSborki/releases/download/prominence/Prominence.II.zip",
+    "parts": 1
+  },
+  {
+    "name": "Vanilla",
+    "version": "1.21.4 (vanilla)",
+    "packVersion": "0.1",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR9-NtM-iH-Oscc6gDKHzO1WGStZXaFDc7zTncCJz3_w&s=10",
+    "v": "1.21.4",
+    "loader": "vanilla",
+    "mcV": "1.21.4",
+    "git": "",
+    "parts": 1
+  }
+]

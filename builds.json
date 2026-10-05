@@ -2,7 +2,7 @@
   {
     "name": "Krevetka",
     "version": "1.21.1 (neoforge)",
-    "packVersion": "0.5",
+    "packVersion": "0.6",
     "icon": "https://i.ibb.co/1tNtJHnm/server-icon.png",
     "v": "21.1.250",
     "loader": "neoforge",
